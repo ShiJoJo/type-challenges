@@ -1,0 +1,12 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ShiJoJo/type-challenges.git",
+  "author": "ShiJoJo <1687859172@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "typescript": "^4.7.4"
+  }
+}
